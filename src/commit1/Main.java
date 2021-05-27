@@ -2,6 +2,6 @@ package commit1;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("checkcommit1");
+        System.out.println("checkcommit4");
     }
 }
